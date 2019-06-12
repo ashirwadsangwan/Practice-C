@@ -1,0 +1,15 @@
+//
+//  helloWorld.c
+//  
+//
+//  Created by Ashirwad Sangwan on 12/06/19.
+//
+
+#include "helloWorld.h"
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World!\n");
+    return 0;
+}
